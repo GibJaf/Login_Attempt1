@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login_Attempt1</string>
+    <string name="button1_text">Login</string>
+    <string name="button2_text">Forgot Password</string>
+    <string name="button3_text">Register</string>
+    <string name="button4_text">Reset Password</string>
+    <string name="button5_text">Logout</string>
+    <string name="edittext1_hint">Username</string>
+    <string name="edittext2_hint">Password</string>
+    <string name="edittext3_hint">New Password</string>
+    <string name="edittext4_hint">Username</string>
+    <string name="edittext5_hint">Password</string>
+</resources>
